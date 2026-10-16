@@ -1,0 +1,101 @@
+
+body{
+    margin:0;
+    font-family:Arial;
+    background-color:#eeeeee;
+}
+
+.encabezado{
+    background-color:#c40000;
+    color:white;
+    padding:20px;
+}
+
+.encabezado h1{
+    margin:10px;
+}
+
+.menu{
+    margin:15px;
+}
+
+.boton-menu{
+    padding:10px;
+    margin:5px;
+    border:1px solid white;
+    border-radius:5px;
+}
+
+.banner{
+    background-color:#ffe5e5;
+    padding:60px;
+    border:1px solid #c40000;
+}
+
+.banner h2{
+    font-size:35px;
+    color:#a00000;
+}
+
+.banner p{
+    font-size:18px;
+}
+
+.boton{
+    background-color:#c40000;
+    color:white;
+    padding:10px 15px;
+    margin:10px;
+    border:1px solid #900000;
+    border-radius:5px;
+}
+
+.cuentas{
+    background-color:white;
+    padding:40px;
+}
+
+.cuenta{
+    width:250px;
+    padding:20px;
+    margin:10px;
+    background-color:#f2f2f2;
+    border:1px solid #cccccc;
+    border-radius:10px;
+}
+
+.cuenta h3{
+    color:#c40000;
+}
+
+.novedades{
+    padding:40px;
+    background-color:#eeeeee;
+}
+
+.posteo{
+    width:300px;
+    padding:15px;
+    margin:10px;
+    background-color:white;
+    border:1px solid #cccccc;
+    border-radius:10px;
+}
+
+.posteo img{
+    width:300px;
+    height:200px;
+    border-radius:5px;
+}
+
+.posteo h3{
+    color:#c40000;
+}
+
+.final{
+    background-color:#c40000;
+    color:white;
+    padding:30px;
+}
+.seccionh2 {
+  font-family: Arial,}

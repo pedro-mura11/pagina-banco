@@ -1,0 +1,143 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Banco Splinter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+ <div>
+    <div class="posteo">
+
+        <img src="https://cdn.phototourl.com/member/2026-10-09-af0f8521-83ef-4c31-a5a7-bda69d18e8f5.jpg"></div>
+<body>
+
+<div class="encabezado">
+
+    <h1>Banco Splinter</h1>
+
+    <div class="menu">
+        <div class="boton-menu">Inicio</div>
+        <div class="boton-menu">Cuentas</div>
+        <div class="boton-menu">Préstamos</div>
+        <div class="boton-menu">Novedades</div>
+    </div>
+<h1>Formulario</h1>
+
+<form>
+    Nombre:
+    <input type="text">
+
+    <br><br>
+
+    Email:
+    <input type="email">
+
+    <br><br>
+
+    Mensaje:
+    <textarea></textarea>
+
+    <br><br>
+
+    <input type="submit" value="Enviar">
+</form>
+
+</div>
+
+<div class="banner">
+
+    <h2>Bienvenido a Banco Splinter</h2>
+
+    <p>Tu banco, cerca tuyo siempre. Seguridad, confianza e innovación.</p>
+
+    <div class="boton">Ver nuestras cuentas</div>
+
+</div>
+
+<div class="cuentas">
+
+    <h2>Nuestras cuentas</h2>
+
+    <div class="cuenta">
+
+        <h3>Cuenta Digital</h3>
+
+        <p>Una cuenta simple y segura para manejar tu dinero todos los días.</p>
+
+        <div class="boton">Ver más</div>
+
+    </div>
+
+    <div class="cuenta">
+
+        <h3>Cuenta Premium</h3>
+
+        <p>Una cuenta con beneficios exclusivos y servicios especiales.</p>
+
+        <div class="boton">Ver más</div>
+
+    </div>
+
+    <div class="cuenta">
+
+        <h3>Cuenta Sueldo</h3>
+
+        <p>Recibí tu sueldo directamente en Banco Splinter de forma rápida y segura.</p>
+
+        <div class="boton">Ver más</div>
+
+    </div>
+
+</div>
+
+<div class="novedades">
+
+    <h2>Novedades</h2>
+
+    <div class="posteo">
+
+        <img src="https://previews.123rf.com/images/hodim/hodim2203/hodim220300054/183617626-red-plastic-credit-cards-on-a-shiny-metallic-background-banking-and-e-commerce-concept-bank-card.jpg">
+
+        <h3>Nueva tarjeta Splinter</h3>
+
+        <p>Conocé nuestra nueva tarjeta y disfrutá de beneficios para nuestros clientes.</p>
+
+        <div class="boton">Leer más</div>
+
+    </div>
+
+    <div class="posteo">
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo0PiTUm-LvnT-0XQ8LOzdULcRrRGSk7NXtvAonlL5FA&s=10" alt="Beneficios Banco Splinter">
+
+        <h3>Nuevos beneficios</h3>
+
+        <p>Tenemos nuevas promociones y beneficios pensados para vos.</p>
+
+        <div class="boton">Leer más</div>
+
+    </div>
+ <div class=seccionh2>
+<h2>Dónde encontrarnos</h2>
+
+    <p>Encontranos en nuestra sucursal.</p>
+
+  
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.0624267256817!2d-58.69378342341972!3d-34.55197475476894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbd079b4824dd%3A0xb965a7c239ec7feb!2sColegio%20Tolkien!5e0!3m2!1ses-419!2sar!4v1791511886751!5m2!1ses-419!2sar" width="600" height="450" style="border:0;""></iframe>
+  </div>
+</div>
+
+<div class="final">
+
+    <h2>Banco Splinter</h2>
+
+    <p>Cerca tuyo, siempre. Gracias por confiar en nosotros.</p>
+
+</div>
+ 
+  
+</body>
+
+</html>
